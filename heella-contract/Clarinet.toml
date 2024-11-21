@@ -5,6 +5,16 @@ authors = []
 telemetry = true
 cache_dir = '.\.cache'
 requirements = []
+[contracts.content-monetization]
+path = 'contracts/content-monetization.clar'
+clarity_version = 2
+epoch = 2.5
+
+[contracts.donation-system]
+path = 'contracts/donation-system.clar'
+clarity_version = 2
+epoch = 2.5
+
 [contracts.reward-system]
 path = 'contracts/reward-system.clar'
 clarity_version = 2
