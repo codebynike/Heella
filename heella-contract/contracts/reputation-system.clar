@@ -1,4 +1,4 @@
-;; Reputation System Smart Contract
+ ;; Reputation System Smart Contract
 ;; Implements user reputation scores, verification credentials, trust metrics, and community standing
 
 ;; Define constants
